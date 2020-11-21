@@ -1,0 +1,17 @@
+{
+  "name": "comparador_csv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^11.0.2",
+    "electron-reload": "^1.5.0",
+    "fast-csv": "^4.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "João Diego",
+  "license": "ISC"
+}
